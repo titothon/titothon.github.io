@@ -42,7 +42,6 @@ header.startup h1 {
   text-transform: uppercase;
   border-radius: 300px;
   font-family: 'Montserrat', sans-serif;
-  align-self: flex-start
 }
 
 .btn-xl {
@@ -52,7 +51,6 @@ header.startup h1 {
 .btn-primary {
   background-color: #C47D00;
   border-color: #C47D00;
-  align-self: flex-start;
 }
 
 .btn-primary:hover {
